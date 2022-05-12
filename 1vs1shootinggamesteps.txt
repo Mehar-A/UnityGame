@@ -1,0 +1,30 @@
+1 vs 1 shooting game
+
+multiplayer servers (check with friends if they work) ( doesnt work)
+Map ( make a 1 v 1 map)(everything moves)
+Guns ( 5 differnt weapons) (damage) (sounds)
+animtation with guns (if possible)
+put weapons on the wall
+Characters health and damage (animation as well)
+sounds of guns and game sense
+start and ending menu
+score on top of the screen (rounds)
+
+
+(1 Character && 1 Gun Working) - End of the month
+
+Model the Testing Map
+Model the character
+
+Put the character into unity
+
+Program the Character with character controller and animation
+
+
+Model the guns with reload animation
+
+Program the gun to shooting
+Program the gun to picked up and drop on the floor
+
+Put all of that into multiplayer Servers
+

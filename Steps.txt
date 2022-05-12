@@ -1,0 +1,29 @@
+First game steps:
+
+
+1.built floor - done
+2.camera angles - done (change the camera with controller location) - later
+3.build AI objects - done 
+2.built players shapes (Traingle, square, Circle, rectangle, maybe(hexagon, octangon, pentagon)) - later
+4.Check if the rectangle objects are random, and delete once they pass certain position - done
+5.add in controls for player object to go left and right - done
+6.add in controls to change player objects shapes (Space, shift or maybe(numbers for which shape to select))-later
+7.add score points once the player object pass through 3d rectangle box
+8.game over if the player object hits the 3d rectanlge
+9.open screen and end screen
+10.publish  
+
+
+1. Built the floor, side, front and back
+2. built player cube with controls left and right
+3. built AI wall with physic with different location holes
+4. built a script for detection colloisons 
+5. Spawnmanger for AI walls
+6. Create AI humans for cheering
+7. Add AI camera to follow the player
+	Start and ending screen(Game over if player collide with wall)
+	Music and sounds for score
+8. Adding score
+12. colors
+13. Different levels ( different shapes and walls)
+14. publish
